@@ -10,7 +10,7 @@ function Main() {
     <div className='container'>
     
     <div className="title">
-    <h3>Experience the full power of QuillBot</h3>
+    Experience the full power of QuillBot
     </div>
     
 
